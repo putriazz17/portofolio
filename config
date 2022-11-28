@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origi"]
+	url = https://github.com/putriazz17/portofolio.git
+	fetch = +refs/heads/*:refs/remotes/origi/*
